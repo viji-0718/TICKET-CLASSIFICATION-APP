@@ -1,0 +1,107 @@
+ticket_id,PROBLEAM_STATEMENT,ISSUE_TYPE
+1,I cannot log into my account,Login Issue
+2,Payment not going through,Payment Problem
+3,How do I reset my password?,Login Issue
+4,App keeps crashing after update,Technical Issue
+5,Refund not received yet,Payment Problem
+6,Unable to access account,Login Issue
+7,Card declined during payment,Payment Problem
+8,App freezes on startup,Technical Issue
+9,Password reset link not working,Login Issue
+10,Double charged for subscription,Payment Problem
+11,Login button not responding,Login Issue
+12,Payment gateway timeout,Payment Problem
+13,App shows blank screen after login,Technical Issue
+14,Forgot password option not working,Login Issue
+15,Transaction failed but money deducted,Payment Problem
+16,App update caused frequent crashes,Technical Issue
+17,Account locked after multiple attempts,Login Issue
+18,Unable to add card for payment,Payment Problem
+19,App lags when opening settings,Technical Issue
+20,OTP not received during login,Login Issue
+21,Payment page not loading,Payment Problem
+22,App closes automatically,Technical Issue
+23,Username not recognized,Login Issue
+24,Refund request pending too long,Payment Problem
+25,App hangs while processing,Technical Issue
+26,Unable to verify account with OTP,Login Issue
+27,Payment deducted but order not confirmed,Payment Problem
+28,App not responding after update,Technical Issue
+29,Password reset email delayed,Login Issue
+30,Multiple charges for one transaction,Payment Problem
+31,Unable to login after password change,Login Issue
+32,Payment failed while using debit card,Payment Problem
+33,App crashes when uploading files,Technical Issue
+34,Forgot username option not working,Login Issue
+35,Refund amount less than expected,Payment Problem
+36,App slows down after long usage,Technical Issue
+37,Account locked due to suspicious activity,Login Issue
+38,Payment gateway showing error code 502,Payment Problem
+39,App not opening after installation,Technical Issue
+40,Login credentials rejected multiple times,Login Issue
+41,Payment deducted but invoice not generated,Payment Problem
+42,App freezes when switching tabs,Technical Issue
+43,Password reset OTP expired quickly,Login Issue
+44,Refund request cancelled without reason,Payment Problem
+45,App update causing compatibility issues,Technical Issue
+46,Unable to change account password,Login Issue
+47,Payment declined during checkout,Payment Problem
+48,App hangs while loading dashboard,Technical Issue
+49,Login page not loading properly,Login Issue
+50,Payment double charged for single order,Payment Problem
+51,Unable to connect to server during login,Login Issue
+52,Payment failed while processing subscription,Payment Problem
+53,App crashes when accessing settings,Technical Issue
+54,Password reset link expired,Login Issue
+55,Refund not processed correctly,Payment Problem
+56,App update causing frequent errors,Technical Issue
+57,Unable to verify login credentials,Login Issue
+58,Payment declined during transaction,Payment Problem
+59,App freezes while loading profile,Technical Issue
+60,Password reset option unavailable,Login Issue
+61,Refund delayed beyond expected time,Payment Problem
+62,App hangs during installation,Technical Issue
+63,Unable to access account dashboard,Login Issue
+64,Payment deducted but no confirmation,Payment Problem
+65,App crashes when opening notifications,Technical Issue
+66,Password reset email not delivered,Login Issue
+67,Refund request not acknowledged,Payment Problem
+68,App slows down after update,Technical Issue
+69,Unable to login with correct password,Login Issue
+70,Payment gateway error during checkout,Payment Problem
+71,App closes unexpectedly during use,Technical Issue
+72,Unable to reset password after update,Login Issue
+73,Payment failed while using credit card,Payment Problem
+74,App crashes when downloading files,Technical Issue
+75,Login page showing error message,Login Issue
+76,Refund not credited to wallet,Payment Problem
+77,App slows down during video calls,Technical Issue
+78,Account locked after password attempts,Login Issue
+79,Payment gateway showing error code 404,Payment Problem
+80,App not opening after restart,Technical Issue
+81,Login credentials mismatch error,Login Issue
+82,Payment deducted but receipt not generated,Payment Problem
+83,App freezes when switching accounts,Technical Issue
+84,Password reset OTP not received,Login Issue
+85,Refund request taking too long,Payment Problem
+86,App update causing login issues,Technical Issue
+87,Unable to change email address,Login Issue
+88,Payment declined during purchase,Payment Problem
+89,App hangs while loading reports,Technical Issue
+90,Login page not displaying correctly,Login Issue
+91,Payment charged twice for same order,Payment Problem
+92,Unable to connect to server,Login Issue
+93,Payment failed while renewing subscription,Payment Problem
+94,App crashes when accessing dashboard,Technical Issue
+95,Password reset link not opening,Login Issue
+96,Refund not processed after cancellation,Payment Problem
+97,App update causing frequent crashes,Technical Issue
+98,Unable to verify account details,Login Issue
+99,Payment declined during checkout,Payment Problem
+100,App freezes while loading settings,Technical Issue
+101,Password reset option missing,Login Issue
+102,Refund delayed beyond promised date,Payment Problem
+103,App hangs during startup,Technical Issue
+104,Unable to access profile page,Login Issue
+105,Payment deducted but no invoice,Payment Problem
+106,App crashes when opening messages,Technical Issue
